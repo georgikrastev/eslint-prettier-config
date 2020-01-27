@@ -4,16 +4,16 @@ VSCode configuration of ESLint and Prettier to work with React
 
 ## Dev Dependencies
 
-Install the following packages as dev dependency:
-* eslint
-* eslint-config-prettier
-* eslint-plugin-prettier
-* eslint-plugin-react
-* prettier
+Install the following packages as dev dependencies:
+* `eslint`
+* `eslint-config-prettier`
+* `eslint-plugin-prettier`
+* `eslint-plugin-react`
+* `prettier`
 
 ## Prettier Config
 
-An empty file called `.prettierrc` should be created at the root of the project. This file contains a configuration object.
+Create an empty file called `.prettierrc` at the root of the project.
 
 Add the following to it:
 
@@ -56,7 +56,7 @@ JSON
 Yes
 
 
-After completing the process a `.eslintrc.json` is created. This file contains a configuration object.
+After completing the process a `.eslintrc.json` is created.
 
 Update it so it looks like this:
 
